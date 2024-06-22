@@ -9,8 +9,8 @@
 **Лучшая стратегия MNLP**:
 * повышено качество обучения модели на 2% на равных объемах размеченного тренировочного  
 * уменьшен объем размеченного тренировочного корпуса на 12%  
-
-[](https://github.com/ekaterinatao/NER_biomed_domain/blob/main/data/MIPT_master_thesis/NER_biomed_domain/data/AL_sampling_30iter_mnlp_rand_bald.png)  
+  
+![al_strategies](https://github.com/ekaterinatao/NER_biomed_domain/blob/main/data/AL_sampling_30iter_mnlp_rand_bald.png)  
   
 |                            | Random sampling | MNLP            | BALD            | 'accuracy'      |
 | -------------------------- | --------------- | --------------- | --------------- | --------------- |
